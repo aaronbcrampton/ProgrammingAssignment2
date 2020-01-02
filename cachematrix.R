@@ -1,4 +1,4 @@
-##  FORWARD:  I am also one to avoid single letter variables so I made more descriptive names.  In retrospect it complicated
+##   FORWARD:  I am also one to avoid single letter variables so I made more descriptive names.  In retrospect it complicated
 ##   this particular assignment.  It's still a good habit though in my belief.  Thanks for reviewing and for any feedback!
 
 makeCacheMatrix <- function(item = matrix()) {   ##creates a matrix
